@@ -1,1 +1,1 @@
-# Virtual-Pen-Erase
+# Virtual Pen and Eraser
